@@ -1,0 +1,22 @@
+# ignore all UE5 generated directories when compiling
+**/Binaries/
+**/DerivedDataCache/
+**/Intermediate/
+**/Saved/
+**/Windows/
+**/Content/
+
+# ignore ide related directories
+**/.vs/
+**/.vscode/
+**/.idea/
+
+# ignore Visual Studio 
+**/*.sln
+**/*.VC.db
+**/*.VC.opendb
+
+# ignore compressed file
+*.zip
+*.rar
+*.7z
