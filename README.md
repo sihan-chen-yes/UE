@@ -15,10 +15,9 @@ Several UE5 game projects using blue prints and C++ codes:
 * WarehouseWreckage: A simple First Person Shooter(FPS) game, you can control the character shooting projectiles to all the objects in the warehouse using limited ammo.
 
   * Demo:
-
-    <video src="./README.assets/WarehouseWreckage_demo.mp4"></video>
+[🎬 Demo Video](./README.assets/WarehouseWreckage_demo.mp4)
 
 * ObstacleAssault: A simple Third Person Platformer(TPP) game, you can control the character to reach the final temple passing various kinds of obstacle's assaulting.
-* Demo:
+  * Demo:
+  [🎬 Demo Video](./README.assets/ObstacleAssault_demo.mp4)
 
-<video src="./README.assets/ObstacleAssault_demo.mp4"></video>
